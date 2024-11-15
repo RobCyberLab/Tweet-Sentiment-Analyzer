@@ -75,6 +75,10 @@ The `main.py` file includes code to simplify the execution of the exercises. Thi
 #### Approach 1 (Recommended):
 
 Results are written to `rezultat_ex1.txt`.
+<p align="center">
+  <img src="example7-image.png" alt="Example 3: Neutral Sentiment" width="500">
+  <br>
+</p>
 
 ---
 
