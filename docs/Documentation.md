@@ -78,7 +78,6 @@ Results are written to `rezultat_ex1.txt`.
 <p align="center">
   <img src="example7-image.png" alt="Example 3: Neutral Sentiment" width="100">
   <br>
-  <img src="example8-image.png" alt="Example 3: Neutral Sentiment" width="100">
 </p>
 
 ---
@@ -114,6 +113,11 @@ Results are written to `rezultat_ex1.txt`.
 - Users with more friends tend to post tweets with more positive sentiment.
 - **Hypothesis**: Users with a larger friend network may be more mindful of their posts and their impact on their audience.
 
+<p align="center">
+  <img src="example8-image.png" alt="Graph" width="500">
+  <br>
+  <em>Graph</em>
+</p>
 ---
 
 ### EX5 (Bonus): Detecting Manipulated Datasets 🕵️‍♂️
