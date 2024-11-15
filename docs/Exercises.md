@@ -5,14 +5,14 @@ In this lab, we will use a dataset of tweets (`twitter_data1.txt`) as the source
 ---
 
 ## Table of Contents 📑
-1. [Predominant Sentiment in Each Tweet 🧠💬](#1-predominant-sentiment-in-each-tweet-)
-2. [Most Frequent Terms 📈🔍](#2-most-frequent-terms-)
-3. [Deriving Sentiment Scores 💡📊](#3-deriving-sentiment-scores-)
-4. [“Do Not Have 100 Rubles, Have 100 Friends” 💬👫](#4-do-not-have-100-rubles-have-100-friends-)
+1. [Predominant Sentiment in Each Tweet](#1-predominant-sentiment-in-each-tweet-)
+2. [Most Frequent Terms](#2-most-frequent-terms-)
+3. [Deriving Sentiment Scores](#3-deriving-sentiment-scores-)
+4. [“Do Not Have 100 Rubles, Have 100 Friends”](#4-do-not-have-100-rubles-have-100-friends-)
 
 ---
 
-## 1. Predominant Sentiment in Each Tweet 🧠💬
+## 1. Predominant Sentiment in Each Tweet🧠
 
 The tweets in the data source contain various texts, and we need to decide if they express a positive or negative sentiment. For each tweet in the input file, calculate the sentiment by summing the sentiment scores of each word in the tweet. For certain more frequent words, the scores are found in the `sentiment_scores.txt` file. For words that do not appear in the given list, the score will be considered 0.
 
@@ -21,13 +21,13 @@ To read the tweets from the input file, you can use the [json module](https://do
 
 ---
 
-## 2. Most Frequent Terms 📈🔍
+## 2. Most Frequent Terms📈
 
 Identify the 500 most frequently used terms in the dataset of tweets, and list them in descending order of frequency.
 
 ---
 
-## 3. Deriving Sentiment Scores 💡📊
+## 3. Deriving Sentiment Scores💡
 
 For the words in the top list identified earlier, if they do not have a sentiment score calculated, associate them with a score.
 
@@ -37,7 +37,7 @@ For the words in the top list identified earlier, if they do not have a sentimen
 
 ---
 
-## 4. "Do Not Have 100 Rubles, Have 100 Friends" 💬👫
+## 4. "Do Not Have 100 Rubles, Have 100 Friends"💬
 
 Implement a method to test the hypothesis that people with many friends are happier, based on the provided data. What conclusion did you reach?
 
