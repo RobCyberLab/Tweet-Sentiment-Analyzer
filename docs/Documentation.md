@@ -34,10 +34,32 @@ The `main.py` file includes code to simplify the execution of the exercises. Thi
 #### Examples:
 
 - **Negative Sentiment**:
+<p align="center">
+  <img src="example1-image.png" alt="Example 1: Negative Sentiment" width="500">
+  <br>
+  <em>Example 1: Negative Sentiment</em>
+</p>
   - Words from `sentiment_scores.txt`
+<p align="center">
+  <img src="example2-image.png" alt="Example 1: Words" width="500">
+  <br>
+  <img src="example3-image.png" alt="Example 1: Words" width="500">
+  <br>
+  <em>Example 1: Words</em>
+</p>
 - **Positive Sentiment**:
+<p align="center">
+  <img src="example4-image.png" alt="Example 1: Words" width="500">
+  <br>
+  <em>Example 1: AES Encryption</em>
+</p>
   - Words from `sentiment_scores.txt`
 - **Neutral Sentiment**:
+<p align="center">
+  <img src="example1-image.png" alt="Example 1: AES Encryption" width="500">
+  <br>
+  <em>Example 1: AES Encryption</em>
+</p>
   - Words from `sentiment_scores.txt`
 
 ---
