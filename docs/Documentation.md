@@ -41,9 +41,9 @@ The `main.py` file includes code to simplify the execution of the exercises. Thi
 </p>
   - Words from `sentiment_scores.txt`
 <p align="center">
-  <img src="example2-image.png" alt="Example 1: Words" width="500">
+  <img src="example2-image.png" alt="Example 1: Words" width="300">
   <br>
-  <img src="example3-image.png" alt="Example 1: Words" width="500">
+  <img src="example3-image.png" alt="Example 1: Words" width="300">
   <br>
   <em>Example 1: Words</em>
 </p>
