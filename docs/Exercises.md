@@ -1,14 +1,14 @@
-# Sentiment Analysis of Tweets 🐦💬
+#  🐦Sentiment Analysis of Tweets💬
 
 In this lab, we will use a dataset of tweets (`twitter_data1.txt`) as the source of data. Implement the requirements below using one or more Python scripts. Along with these, a short explanatory text will be provided, explaining the solution and how to run the scripts.
 
 ---
 
 ## Table of Contents 📑
-1. [Predominant Sentiment in Each Tweet 🧠💬](#1-predominant-sentiment-in-each-tweet)
-2. [Most Frequent Terms 📈🔍](#2-most-frequent-terms)
-3. [Deriving Sentiment Scores 💡📊](#3-deriving-sentiment-scores)
-4. [“Do Not Have 100 Rubles, Have 100 Friends” 💬👫](#4-do-not-have-100-rubles-have-100-friends)
+1. [Predominant Sentiment in Each Tweet 🧠💬](#1-predominant-sentiment-in-each-tweet-)
+2. [Most Frequent Terms 📈🔍](#2-most-frequent-terms-)
+3. [Deriving Sentiment Scores 💡📊](#3-deriving-sentiment-scores-)
+4. [“Do Not Have 100 Rubles, Have 100 Friends” 💬👫](#4-do-not-have-100-rubles-have-100-friends-)
 
 ---
 
