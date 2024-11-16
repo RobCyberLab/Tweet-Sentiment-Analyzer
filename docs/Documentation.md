@@ -1,16 +1,15 @@
 # Project Instructions 🧪
 
 ## Table of Contents 📚
-1. [Overview 📋](#overview-)
-2. [Exercise Details 📝](#exercise-details-)
-   - [Sentiment Analysis 🧠](#sentiment-analysis-)
-   - [Most Frequent Words Analysis 📈](#most-frequent-words-analysis-)
+1. [Overview 📋](#overview)
+2. [Exercise Details 📝](#exercise-details)
+   - [Sentiment Analysis 🧠](#sentiment-analysis)
+   - [Most Frequent Words Analysis 📈](#most-frequent-words-analysis)
      - [Approach 1 (Recommended)](#approach-1-recommended)
      - [Approach 2 (Alternative using NLTK)](#approach-2-alternative-using-nltk)
-   - [Deriving Sentiment Scores for New Words 💡](#deriving-sentiment-scores-for-new-words-)
-   - [Friends and Happiness Correlation 📊](#friends-and-happiness-correlation-)
-   - [Detecting Manipulated Datasets 🕵️‍♂️](#bonus-detecting-manipulated-datasets-)
-3. [Limitations 🛠️](#limitations-)
+   - [Deriving Sentiment Scores for New Words 💡](#deriving-sentiment-scores-for-new-words)
+   - [Friends and Happiness Correlation 📊](#friends-and-happiness-correlation)
+   - [Detecting Manipulated Datasets 🕵️‍♂️](#bonus-detecting-manipulated-datasets)
 ---
 
 ## Overview 📋
