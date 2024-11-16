@@ -1,4 +1,4 @@
-# Laboratory 1 Instructions 🧪
+# Project Instructions 🧪
 
 ## Table of Contents 📚
 1. [Overview 📋](#overview-)
