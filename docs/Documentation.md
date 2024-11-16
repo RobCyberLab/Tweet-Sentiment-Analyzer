@@ -1,9 +1,9 @@
 # Project Instructions 🧪
 
 ## Table of Contents 📚
-1. [Overview 📋](#overview)
-2. [Exercise Details 📝](#exercise-details)
-   - [Sentiment Analysis 🧠](#sentiment-analysis)
+1. [Overview 📋](#overview-)
+2. [Exercise Details 📝](#exercise-details-)
+   - [Sentiment Analysis 🧠](#sentiment-analysis-)
    - [Most Frequent Words Analysis 📈](#most-frequent-words-analysis)
      - [Approach 1 (Recommended)](#approach-1-recommended)
      - [Approach 2 (Alternative using NLTK)](#approach-2-alternative-using-nltk)
