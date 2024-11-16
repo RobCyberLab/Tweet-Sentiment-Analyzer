@@ -130,13 +130,3 @@ Results are written to `rezultat_ex1.txt`.
    - Analyze the dataset's probability distribution against theoretical expectations.
 
 ---
-
-## Limitations 🛠️
-
-- Exercise 1: The format of `twitter_data1.txt` may vary, affecting correctness.
-- Exercise 2: Includes partial words or irrelevant substrings as valid words.
-- Exercise 3: Neutral tweets are excluded from calculations.
-- Exercise 4: Sentiment analysis depends heavily on the quality of `sentiment_scores.txt`.
-- Exercise 5: Metadata examination requires domain knowledge for accurate conclusions.
-
----
