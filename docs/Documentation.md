@@ -3,13 +3,13 @@
 ## Table of Contents 📚
 1. [Overview 📋](#overview-)
 2. [Exercise Details 📝](#exercise-details-)
-   - [EX1: Sentiment Analysis 🧠](#ex1-sentiment-analysis-)
-   - [EX2: Most Frequent Words Analysis 📈](#ex2-most-frequent-words-analysis-)
+   - [Sentiment Analysis 🧠](#sentiment-analysis-)
+   - [Most Frequent Words Analysis 📈](#most-frequent-words-analysis-)
      - [Approach 1 (Recommended)](#approach-1-recommended)
      - [Approach 2 (Alternative using NLTK)](#approach-2-alternative-using-nltk)
-   - [EX3: Deriving Sentiment Scores for New Words 💡](#ex3-deriving-sentiment-scores-for-new-words-)
-   - [EX4: Friends and Happiness Correlation 📊](#ex4-friends-and-happiness-correlation-)
-   - [EX5 (Bonus): Detecting Manipulated Datasets 🕵️‍♂️](#ex5-bonus-detecting-manipulated-datasets-)
+   - [Deriving Sentiment Scores for New Words 💡](#deriving-sentiment-scores-for-new-words-)
+   - [Friends and Happiness Correlation 📊](#friends-and-happiness-correlation-)
+   - [Detecting Manipulated Datasets 🕵️‍♂️](#bonus-detecting-manipulated-datasets-)
 3. [Limitations 🛠️](#limitations-)
 ---
 
@@ -23,7 +23,7 @@ The `main.py` file includes code to simplify the execution of the exercises. Thi
 
 ## Exercise Details 📝
 
-### EX1: Sentiment Analysis 🧠
+### Sentiment Analysis 🧠
 
 - **Goal**: For each tweet in `twitter_data1.txt`, calculate its score by checking the words in `sentiment_scores.txt`. The sentiment is determined as:
   - **Negative**: Score < 0
@@ -68,7 +68,7 @@ The `main.py` file includes code to simplify the execution of the exercises. Thi
 
 ---
 
-### EX2: Most Frequent Words Analysis 📈
+### Most Frequent Words Analysis 📈
 
 - **Goal**: Extract the 500 most frequent words from all tweets that do not appear in `sentiment_scores.txt`. These words are ranked based on their occurrence frequency.
 
@@ -89,7 +89,7 @@ Results are written to `rezultat_ex1.txt`.
 
 ---
 
-### EX3: Deriving Sentiment Scores for New Words 💡
+### Deriving Sentiment Scores for New Words 💡
 
 - **Goal**: Using the results from `ex2.2`, compute sentiment scores for the identified words based on their context in tweets.
 
@@ -101,7 +101,7 @@ Results are written to `rezultat_ex1.txt`.
 
 ---
 
-### EX4: Friends and Happiness Correlation 📊
+### Friends and Happiness Correlation 📊
 
 - **Goal**: Analyze the number of friends of each user and correlate it with the sentiment expressed in their tweets.
 
@@ -120,7 +120,7 @@ Results are written to `rezultat_ex1.txt`.
 </p>
 ---
 
-### EX5 (Bonus): Detecting Manipulated Datasets 🕵️‍♂️
+### Detecting Manipulated Datasets 🕵️‍♂️
 
 1. **Metadata Analysis**:
    - Examine metadata for signs of manipulation or inconsistencies.
