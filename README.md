@@ -7,10 +7,10 @@ In this project, we will use a dataset of tweets as the source of data. Implemen
 ---
 
 ## Table of Contents📑
-1. [Predominant Sentiment in Each Tweet](#1-predominant-sentiment-in-each-tweet)
-2. [Most Frequent Terms](#2-most-frequent-terms)
-3. [Deriving Sentiment Scores](#3-deriving-sentiment-scores)
-4. [“Do Not Have 100 Rubles, Have 100 Friends”](#4-do-not-have-100-rubles-have-100-friends)
+1. [Predominant Sentiment in Each Tweet](#predominant-sentiment-in-each-tweet)
+2. [Most Frequent Terms](#most-frequent-terms)
+3. [Deriving Sentiment Scores](#deriving-sentiment-scores)
+4. [“Do Not Have 100 Rubles, Have 100 Friends”](#do-not-have-100-rubles-have-100-friends)
 
 ---
 
