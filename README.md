@@ -1,4 +1,4 @@
-# 🐦Sentiment Analysis of Tweets💬
+# 🐦Tweet Sentiment Analyzer 📊
 
 In this project, we will use a dataset of tweets as the source of data. Implement the requirements below using one or more Python scripts. Along with these, a short explanatory text will be provided, explaining the solution and how to run the scripts.
 
