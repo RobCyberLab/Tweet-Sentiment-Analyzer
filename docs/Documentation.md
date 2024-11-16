@@ -9,7 +9,7 @@
      - [Approach 2 (Alternative using NLTK)](#approach-2-alternative-using-nltk)
    - [Deriving Sentiment Scores for New Words](#deriving-sentiment-scores-for-new-words)
    - [Friends and Happiness Correlation](#friends-and-happiness-correlation)
-   - [Detecting Manipulated Datasets](#bonus-detecting-manipulated-datasets)
+   - [Detecting Manipulated Datasets](#detecting-manipulated-datasets)
 ---
 
 ## Overview📋
