@@ -23,6 +23,8 @@ The `main.py` file includes code to simplify the execution of the exercises. Thi
 
 ## Exercise Details 📝
 
+---
+
 ### Sentiment Analysis 🧠
 
 - **Goal**: For each tweet in `twitter_data1.txt`, calculate its score by checking the words in `sentiment_scores.txt`. The sentiment is determined as:
