@@ -118,6 +118,7 @@ Results are written to `rezultat_ex1.txt`.
   <br>
   <em>Graph</em>
 </p>
+
 ---
 
 ### Detecting Manipulated Datasets 🕵️‍♂️
