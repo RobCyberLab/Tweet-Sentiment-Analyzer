@@ -1,18 +1,18 @@
-# Project Instructions 🧪
+# Project Instructions🧪
 
-## Table of Contents 📚
-1. [Overview 📋](#overview-)
-2. [Exercise Details 📝](#exercise-details-)
-   - [Sentiment Analysis 🧠](#sentiment-analysis-)
-   - [Most Frequent Words Analysis 📈](#most-frequent-words-analysis)
+## Table of Contents📚
+1. [Overview](#overview-)
+2. [Exercise Details](#exercise-details-)
+   - [Sentiment Analysis](#sentiment-analysis-)
+   - [Most Frequent Words Analysis](#most-frequent-words-analysis)
      - [Approach 1 (Recommended)](#approach-1-recommended)
      - [Approach 2 (Alternative using NLTK)](#approach-2-alternative-using-nltk)
-   - [Deriving Sentiment Scores for New Words 💡](#deriving-sentiment-scores-for-new-words)
-   - [Friends and Happiness Correlation 📊](#friends-and-happiness-correlation)
-   - [Detecting Manipulated Datasets 🕵️‍♂️](#bonus-detecting-manipulated-datasets)
+   - [Deriving Sentiment Scores for New Words](#deriving-sentiment-scores-for-new-words)
+   - [Friends and Happiness Correlation](#friends-and-happiness-correlation)
+   - [Detecting Manipulated Datasets](#bonus-detecting-manipulated-datasets)
 ---
 
-## Overview 📋
+## Overview📋
 
 To execute the exercises, run `main.py` and select the desired exercise. It is recommended to follow the order of execution to avoid interferences since the exercises build on each other. For example: `ex1`, `ex2`, `ex3`, `ex4`, or `exit` if you want to exit the program.
 
@@ -20,9 +20,9 @@ The `main.py` file includes code to simplify the execution of the exercises. Thi
 
 ---
 
-## Exercise Details 📝
+## Exercise Details📝
 
-### Sentiment Analysis 🧠
+### Sentiment Analysis🧠
 
 - **Goal**: For each tweet in `twitter_data1.txt`, calculate its score by checking the words in `sentiment_scores.txt`. The sentiment is determined as:
   - **Negative**: Score < 0
@@ -67,7 +67,7 @@ The `main.py` file includes code to simplify the execution of the exercises. Thi
 
 ---
 
-### Most Frequent Words Analysis 📈
+### Most Frequent Words Analysis📈
 
 - **Goal**: Extract the 500 most frequent words from all tweets that do not appear in `sentiment_scores.txt`. These words are ranked based on their occurrence frequency.
 
@@ -89,7 +89,7 @@ Results are written to `rezultat_ex1.txt`.
 
 ---
 
-### Deriving Sentiment Scores for New Words 💡
+### Deriving Sentiment Scores for New Words💡
 
 - **Goal**: Using the results from `ex2.2`, compute sentiment scores for the identified words based on their context in tweets.
 
@@ -101,7 +101,7 @@ Results are written to `rezultat_ex1.txt`.
 
 ---
 
-### Friends and Happiness Correlation 📊
+### Friends and Happiness Correlation📊
 
 - **Goal**: Analyze the number of friends of each user and correlate it with the sentiment expressed in their tweets.
 
@@ -121,7 +121,7 @@ Results are written to `rezultat_ex1.txt`.
 
 ---
 
-### Detecting Manipulated Datasets 🕵️‍♂️
+### Detecting Manipulated Datasets🕵️‍♂️
 
 1. **Metadata Analysis**:
    - Examine metadata for signs of manipulation or inconsistencies.
